@@ -27,7 +27,7 @@ rdflib = "^5.0"
 tqdm = "^4.52.0"
 
 [tool.poetry.dev-dependencies]
-pytest = "^3.0"
+pytest = "^6.2"
 
 [tool.poetry.scripts]
 umakaparser = "umakaparser.services:cmd"
